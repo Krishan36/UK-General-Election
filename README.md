@@ -8,13 +8,13 @@ To view the **UK General Election (2010 - 2019) Dashboard** in **Power BI**, ple
 ## Key Features
 
 - **Election map by winning party** across the four election years (2010, 2015, 2017, and 2019).
-- 
+  
 - **Total votes and seats** by party to assess overall performance.
-- 
+  
 - **Major party analysis**, including changes in vote share and regional support.
-- 
+  
 - **Detailed results by country and region**, highlighting key voting trends.
-- 
+  
 - **Constituency-level results**, including voter turnout and shifts in majority margins.
 
 
