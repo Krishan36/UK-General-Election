@@ -1,6 +1,6 @@
 # UK General Election (2010 - 2019) Power BI Dashboard
 
-This Power BI dashboard offers a comprehensive and interactive analysis of the **UK General Elections from 2010 to 2019**, covering the 2010, 2015, 2017, and 2019 electoral cycles. 
+This Power BI dashboard offers a comprehensive and interactive analysis of the **UK General Elections from 2010 to 2019**, covering the 2010, 2015, 2017, and 2019 elections. 
 
 ## Key Features
 
